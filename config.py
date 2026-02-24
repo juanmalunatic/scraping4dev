@@ -1,7 +1,7 @@
 BASE = "https://www.povertyactionlab.org"
 LIST_URL = "https://www.povertyactionlab.org/evaluations?page={page}"  # si no funciona, cambiamos a "Load more"
 START_PAGE = 0
-END_PAGE = 1
+END_PAGE = 5
 #END_PAGE = 129  # inclusive
 MAX_RETRIES = 4
 
