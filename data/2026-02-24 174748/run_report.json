@@ -1,0 +1,15 @@
+{
+  "run_id": "2026-02-24 174748",
+  "started_at": "2026-02-24T17:47:48",
+  "finished_at": "2026-02-24T17:48:59",
+  "duration_seconds": 71,
+  "evaluations_scraped": 20,
+  "retries_count": 0,
+  "errors_count": 0,
+  "errors": [],
+  "outputs": {
+    "jsonl": "data\\2026-02-24 174748\\evaluations.jsonl",
+    "diff_report": "data\\2026-02-24 174748\\diff_report.json",
+    "run_report": "data\\2026-02-24 174748\\run_report.json"
+  }
+}
