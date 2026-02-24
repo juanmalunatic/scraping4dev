@@ -1,0 +1,4 @@
+chromedriver-win64/chromedriver.exe
+venv
+.idea
+__pycache__
